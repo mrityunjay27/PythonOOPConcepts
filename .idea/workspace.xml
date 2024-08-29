@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2729417-b92c-41d3-9685-0253ddcb4d05" name="Changes" comment="inner class">
-      <change afterPath="$PROJECT_DIR$/3_inheritance.py" afterDir="false" />
+    <list default="true" id="e2729417-b92c-41d3-9685-0253ddcb4d05" name="Changes" comment="inheritance">
+      <change afterPath="$PROJECT_DIR$/4_1_polymorphism_duck_typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_2_polymorphism_operator_overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_3_polymorphism_method_overloading_and_overiding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_objects_constructor_variable_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_class_objects_constructor_variable_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inner_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_inner_class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.3_inheritance.executor": "Run",
+    "Python.4_2_polymorphism_operator_overloading.executor": "Run",
+    "Python.4_polymorphism.executor": "Run",
     "Python.inner_class.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true"
@@ -82,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724867191377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1724952656434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724952656434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +110,7 @@
     <MESSAGE value="Test Github" />
     <MESSAGE value="Class, objects, constructor, variables and methods" />
     <MESSAGE value="inner class" />
-    <option name="LAST_COMMIT_MESSAGE" value="inner class" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
 </project>
