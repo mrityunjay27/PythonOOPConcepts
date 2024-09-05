@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2729417-b92c-41d3-9685-0253ddcb4d05" name="Changes" comment="inheritance 2">
-      <change afterPath="$PROJECT_DIR$/5_encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_some_snippets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_generator.py" afterDir="false" />
+    <list default="true" id="e2729417-b92c-41d3-9685-0253ddcb4d05" name="Changes" comment="encap, snippets, iterator, generator">
+      <change afterPath="$PROJECT_DIR$/10_property_deco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_decorators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +42,7 @@
     "Python.5_encapsulation.executor": "Run",
     "Python.7_iterator.executor": "Run",
     "Python.8_generator.executor": "Debug",
+    "Python.9_decorators.executor": "Run",
     "Python.inner_class.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true"
@@ -105,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724956419032</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="encap, snippets, iterator, generator">
+      <option name="closed" value="true" />
+      <created>1725300949511</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725300949511</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,37 +132,7 @@
     <MESSAGE value="inner class" />
     <MESSAGE value="inheritance" />
     <MESSAGE value="inheritance 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance 2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/8_generator.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/8_generator.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/8_generator.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/8_generator.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/8_generator.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="encap, snippets, iterator, generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="encap, snippets, iterator, generator" />
   </component>
 </project>
